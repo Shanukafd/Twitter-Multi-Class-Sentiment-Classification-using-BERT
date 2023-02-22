@@ -1,5 +1,5 @@
 # Twitter Multi-Class Sentiment Classification using BERT(*B*idirectional *E*ncoder *R*epresentation from *T*ransformers)
-## This repository contains the code and the dataset used for the project **Classifying Twitter Posts for Movie Success Prediction using a BERT based Approach**
+
 This project was done as my final year thesis-based project, and it is a website that retrieves Twitter posts for a specific movie and categorizes them based on their sentiment value. The flop and hit percentages were calculated using a simple mathematical formula to provide movie producers with an idea of where the film is headed and how they can adjust their marketing strategies to put the film revenue on a profitable path.
 
 # The home page
